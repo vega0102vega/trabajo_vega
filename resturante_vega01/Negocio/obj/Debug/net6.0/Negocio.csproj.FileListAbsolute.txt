@@ -1,0 +1,5 @@
+C:\Users\SENA\Desktop\trabajo vega\App_inscripciones_vega\resturante_vega01\Negocio\obj\Debug\net6.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\trabajo vega\App_inscripciones_vega\resturante_vega01\Negocio\obj\Debug\net6.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\trabajo vega\App_inscripciones_vega\resturante_vega01\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\trabajo vega\App_inscripciones_vega\resturante_vega01\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfo.cs
+C:\Users\SENA\Desktop\trabajo vega\App_inscripciones_vega\resturante_vega01\Negocio\obj\Debug\net6.0\Negocio.csproj.CoreCompileInputs.cache
