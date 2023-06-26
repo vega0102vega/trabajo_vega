@@ -117,21 +117,20 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="btn_salir.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAA
-        qQAAAKkBq7NRIgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAIaSURBVEhL3ZVb
-        TxNBFMf7JTT6DYgxRgEbbltaCNRi6XRbF0Wa0MtCKo1fR9QHY/gG+OKLJoJ4QZ+9JZKaSlsKCyxpwqUL
-        DjPdE8dlzm7BR/7J/+Vkzu9kzp456zv/2tSUK1VVeW6MDbzeSd1a3M/GXjb0+BPmHM2rF+HY2VVOBm6U
-        Sc/3Srzvz246ShkQs9XIkad0OnEZ0k6nqhooFEduHpnjQxgUs2FlYyFI99ZaQnm4Eu6gO6kwBvLygaUT
-        BTC4eFuKkc6jjbEBkfhAs+2EucXXaVq7BDhZq6T3R3HETw90Yifk79D6+ze0vrzkhOU1PM49pT4GnFNb
-        avDqSridbt4dBIgNN02z6b8wgEtxUcSiGe0CYIWqCWXu53A73cvAxJwo0IR9fkfrHxedseW38i1yahaw
-        Qquxnm/FiN95ECnyr1E4N9am36NdtVK0Wz7Mi3xYkOHsNiic2dLjLwArVBrtXitFu+SE/ymQU+cBK8Re
-        7Vf2uJyHW7YImSJurEUVtm9afuRPS9Jt8FGNpwErxJdac0zvuY0pfFC3uCiAjylXGSZJfmgnIG5x248A
-        J2tbC163V0VIJHCADHGL1zxXBZeRDBSay27izMtu35pW+wDjrVqif+ZXxH9o3h/GQJg32OwHIf102koO
-        XiuT3i8Vwn44k7cxKLfV0Mlsy7Z4yUgG29ieemZooVf1VGTB/mWSWeaM67ScI/l8x8L1lnsEYugkAAAA
-        AElFTkSuQmCC
-</value>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="consulta (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\consulta (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="limpiar (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\limpiar (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guardar-datos (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\guardar-datos (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="consulta (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\consulta (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flecha-de-carga" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flecha-de-carga.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

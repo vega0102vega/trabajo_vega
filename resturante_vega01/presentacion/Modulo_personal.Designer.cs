@@ -154,7 +154,7 @@
             // bnt_actualizar
             // 
             this.bnt_actualizar.Image = global::presentacion.Properties.Resources.sincronizar;
-            this.bnt_actualizar.Location = new System.Drawing.Point(506, 269);
+            this.bnt_actualizar.Location = new System.Drawing.Point(536, 269);
             this.bnt_actualizar.Name = "bnt_actualizar";
             this.bnt_actualizar.Size = new System.Drawing.Size(102, 86);
             this.bnt_actualizar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -165,7 +165,7 @@
             // bnt_consultar
             // 
             this.bnt_consultar.Image = global::presentacion.Properties.Resources.busqueda_de_datos;
-            this.bnt_consultar.Location = new System.Drawing.Point(370, 269);
+            this.bnt_consultar.Location = new System.Drawing.Point(397, 269);
             this.bnt_consultar.Name = "bnt_consultar";
             this.bnt_consultar.Size = new System.Drawing.Size(102, 86);
             this.bnt_consultar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -176,7 +176,7 @@
             // bnt_limpiar
             // 
             this.bnt_limpiar.Image = global::presentacion.Properties.Resources.limpieza_de_datos1;
-            this.bnt_limpiar.Location = new System.Drawing.Point(506, 156);
+            this.bnt_limpiar.Location = new System.Drawing.Point(536, 156);
             this.bnt_limpiar.Name = "bnt_limpiar";
             this.bnt_limpiar.Size = new System.Drawing.Size(102, 86);
             this.bnt_limpiar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -187,7 +187,7 @@
             // bnt_guardar
             // 
             this.bnt_guardar.Image = global::presentacion.Properties.Resources.guardar_datos1;
-            this.bnt_guardar.Location = new System.Drawing.Point(370, 156);
+            this.bnt_guardar.Location = new System.Drawing.Point(397, 156);
             this.bnt_guardar.Name = "bnt_guardar";
             this.bnt_guardar.Size = new System.Drawing.Size(102, 86);
             this.bnt_guardar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
